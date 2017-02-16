@@ -1,0 +1,11 @@
+commit 57d642d2882bcb6713a8c05de6b3d45b505682e9
+Author: Jasiel1995 <jasieldavid@hotmail.com>
+Date:   Thu Feb 16 14:27:45 2017 -0700
+
+    cambio en el archivo
+
+commit 2c3993869b16021c0cb560805ec90ff2ac345a20
+Author: Jasiel1995 <jasieldavid@hotmail.com>
+Date:   Wed Feb 15 14:20:11 2017 -0700
+
+    primer commit
