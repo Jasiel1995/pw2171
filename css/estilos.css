@@ -1,0 +1,7 @@
+body{
+	font-size: 16px;
+	max-width: 1024px;
+	color: white;
+	background: rgba(255,0,0,0.4);
+	border: 1px solid red;
+}
