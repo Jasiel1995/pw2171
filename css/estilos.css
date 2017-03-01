@@ -1,7 +1,28 @@
 body{
 	font-size: 16px;
 	max-width: 1024px;
-	color: white;
-	background: rgba(255,0,0,0.4);
+	color: black;
+	background: white;
 	border: 1px solid red;
+	margin: 0px auto;
+}
+header{
+	text-align: center;
+	border: 1px solid blue;
+}
+header img{
+	height: 100px;
+	float: right;
+	margin: -70px 20px 0px 0px;
+
+}
+header nav ul li{
+	/*border: 1px solid tomato;*/
+	background:  blue;
+	display: inline-block;
+	padding: 5px 10px;
+	width: 84px;
+	margin: 0px 10px 0px 0px;
+	color: white;
+	border-radius: 10px;
 }
