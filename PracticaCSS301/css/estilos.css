@@ -1,0 +1,63 @@
+body{
+	border: 1px solid blue;
+	font-size: 16px; /*1em*/
+	margin: 0 auto;
+	max-width: 1024px;
+}
+form{
+	float: right;
+	margin-right: 20px;
+	margin-top:-35px;
+}
+form input{ /*todos los inputs dentro del form*/
+	border-radius: 5px;
+}
+form input[type="button"]{
+	background: green;
+	color: white;
+}
+header{
+	background: #B3D8EB;
+}
+#logo{
+	margin-top: -150px;
+}
+header nav{
+	background: #0E6CB0;
+	border-radius: 5px;
+	padding: 2px 0px 2px 0px;
+	margin: 0 auto;
+	width: 99%;
+}
+header nav ul li{
+	color: white;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+#seccion01 article{
+	text-align:center;
+}
+
+#seccion01 article img{
+	border: 5px solid rgba(111,111,111,0.2);
+	margin-top: 15px;
+	width: 98%;
+}
+#seccion02 article{
+	display: inline-block;
+	vertical-align: top;
+	width: 32.8%;
+}
+.otraSeccion,.unaSeccion{
+	font-weight: bold;
+}
+.unaSeccion{
+	font-size: 4.5em;
+	font-weight: bold;
+}
+.otraSeccion{
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
