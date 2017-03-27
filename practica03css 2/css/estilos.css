@@ -5,10 +5,126 @@ body{
 	margin: 0 auto; /*centramos el body*/
 
 }
+header nav {
+	background: #FF7514 ;
+	border-radius: 5px;
+	padding: 1px 0px 1px 0px;
+	margin: 0 auto;
+	width: 99%;
+	margin-top: 120px;
+
+}
+header nav ul{
+	margin-left: -30px;
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+	color: white;
+	font-weight: bold;
+}
+header span{
+	float: left;
+	margin-top: 60px;
+	margin-left: -200px;
+	color: rgba(111,111,111,0.2);
+	font-size: 2em;
+}
 #r1,#r2,#r3{
 	float: right;
 	margin-top: 30px;
 }
 #logo{
 	margin-top: 10px;
+	float: left;
+}
+#s1 article{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#s1a2{
+	margin-top: 30px;
+	border: 0.5px solid gray;
+}
+#s1a1{
+	border: 2px solid rgba(111,111,111,0.2);
+	border-bottom: 1px solid gray;
+}
+.publicidad{
+	font-weight: bold;
+	background: #FF7514;
+	padding: 3px 130px 3px 130px ;
+	border-radius: 5px;
+	color: white;
+}
+#s2 article{
+	display: inline-block;
+	vertical-align: top;
+	width: 33%;
+}
+.titulo{
+	font-weight: bold;
+	font-size: 2em;
+	color: gray;
+}
+#s2a2{
+	margin-top: 50px;
+	margin-left: -150px;
+}
+.fecha{
+	border-bottom: 1px solid gray;
+	padding: 5px 100px 5px 0px;
+	border-radius: 5px;
+	background: rgba(111,111,111,0.1);
+}
+
+#arbol{
+	border: 10px solid rgba(111,111,111,0.2);
+}
+.leermas{
+	background: rgba(111,111,111,0.4);
+	color: white;
+	font-weight: bold;
+	border-radius: 3px;
+	padding: 3px 1px 3px 1px;
+}
+#s2a3{
+	margin-top: 40px;
+	text-align: center;
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 0px 0px 10px 0px;
+	margin-left: 90px;
+}
+.buscador{
+	background: #FF7514;
+	border-radius: 5px;
+	padding: 3px 130px 3px 130px;
+	color: white;
+	font-weight: bold;
+}
+#s2a3 input{
+	margin-top: 20px;
+	border-radius: 10px;
+	border-radius: 10px;
+}
+#s2a4{
+	float: right;
+	margin-top: -50px;
+	margin-right: 50px;
+	border: 1px solid gray;
+}
+.categorias{
+	background: #FF7514;
+	border-radius: 5px;
+	padding: 3px 130px 3px 130px;
+	color: white;
+	font-weight: bold;
+}
+#s2a4 ul li{
+/*	border: red 1px solid;*/
+	border-bottom: 1px solid gray;
+	margin-bottom: 3px; 
+	
 }
