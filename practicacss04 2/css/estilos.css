@@ -1,0 +1,95 @@
+body{
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+#logo{
+	vertical-align: top;
+	margin-left: 400px;
+}
+header{
+	background: #00008B;
+}
+header nav{
+	background: #F5F5DC;
+}
+header nav ul {
+	
+	margin-left: 460px;
+}
+#s1a1 ul{
+	list-style: none;
+	background: #00008B;
+
+}
+
+#s1a1{
+	background: #00008B;
+}
+#s1a1 ul li:before{
+	content: "</>";
+	color: white;
+}
+#s1a1 ul li{
+	color: white;
+	text-align: left;
+
+}
+#s1a2 ul{
+	list-style: none;
+	
+}
+#s2 article{
+	display: inline-block;
+	width: 22%;
+}
+#s2a1{
+	background: green;
+	text-align: center;
+}
+#s2a2{
+	background: blue;
+	text-align: center;
+}
+#s2a3{
+	background: #8A2BE2;
+	text-align: center;
+}
+#s2a4{
+	background: red;
+	text-align: center;
+}
+#s2a1,#s2a2,#s2a3,#s2a4{
+	color: white;
+}
+#s4 article {
+	display: inline-block;
+	width: 23%;
+	
+}
+#s1, #sfull{
+	display: inline-block;
+	
+}
+
+#s1a2 ul li img{
+	
+	height: 25px;
+
+}
+
+#sfull{
+	width: 70%;
+	vertical-align: top;
+	margin: 0 auto;
+	margin-left: 20px;
+}
+#s3 img{
+	height: 180px;
+
+}
+#s4 article img{
+	height: 200px;
+	width: 180px;
+	margin-right: 10px;
+}
