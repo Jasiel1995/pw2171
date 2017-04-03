@@ -1,0 +1,106 @@
+body{
+	margin: 0 auto;
+	width: 1024px;
+	font-size: 16px;
+}
+.treslogos{
+	float: right;
+}
+#go{
+	position: relative;
+	left: 410px;
+	top: 50px;
+}
+#buy{
+	position: relative;
+	top: 120px;
+	left: 120px;
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+	font-weight: bold;
+
+}
+header nav{
+	margin-left: -40px;
+	margin-top: 70px;
+}
+header{
+	border-bottom: darkgray 1px solid;
+	border-bottom-style: dashed;
+	padding-bottom: 50px; 
+
+}
+#first{
+	font-size: 3.5em;
+	font-weight: bold;
+	font-family: 'Muli', sans-serif;
+}
+#balance{
+	color: #4cff33;
+	font-size: 3.5em;
+	font-weight: bold;
+	font-family: 'Muli', sans-serif;
+}
+#parrafo{
+	color: gray;
+}
+#s1, #s2{
+	display: inline-block;
+}
+
+#s1{
+	width: 50%;
+	vertical-align: top;
+	padding-right: 10px;
+}
+
+
+#bike{
+	width: 310px;
+
+}
+#years{
+	position: relative;
+	top: 50px;
+	right: 320px;
+	width: 140px;
+}
+#s1a1{
+	border-bottom: darkgray 1px solid;
+	border-bottom-style: dashed;
+	padding-bottom: 10px;
+}
+#s1a4 img{
+	display: inline-block;
+	width: 48%;
+	margin-right: 8px;
+}
+#s3 article{
+	display: inline-block;
+	margin-right: 10px;
+}
+#s3{
+	margin-top: 50px;
+}
+#s3a1 img{
+	width: 20px;
+
+}
+#s3a2{
+	color: gray;
+}
+footer article{
+	display: inline-block;
+	width: 18%;
+	vertical-align: top;
+	margin-top: 50px;
+	color: gray;
+}
+.titulosfinal{
+	border-bottom: darkgray 1px solid;
+	padding-bottom: 5px;
+	padding-right: 50px;
+	
+}
