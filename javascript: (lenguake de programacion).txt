@@ -1,0 +1,5 @@
+javascript: (lenguake de programacion)
+*se integra con HTML para validaciones.
+*livescript (menos poderoso)
+*sintaxix java
+*punto y coma es opcional
